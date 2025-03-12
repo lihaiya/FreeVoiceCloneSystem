@@ -1,5 +1,5 @@
 # FreeAgentVoiceCloneSystem: Call Center Agent Voice Clone System 坐席语音克隆系统
-Intelligent voice, agent voice cloning, agent intelligent assistance, agent assistance, telephone assistance, agent assistance robot,智能语音，坐席语音克隆，坐席智能辅助，坐席辅助，电话辅助，坐席辅助机器人，TTS，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心,Robot,large model robot!!!
+Intelligent voice, agent voice cloning, agent intelligent assistance, agent assistance, telephone assistance, agent assistance robot,智能语音，坐席语音克隆，坐席智能辅助，坐席辅助，电话辅助，坐席辅助机器人，TTS，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心,Robot,large model robot!!!!
 
 ## 😄完整性:前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！部分功能还在迭代ing！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
