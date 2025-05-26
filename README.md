@@ -1,5 +1,5 @@
 # FreeAgentVoiceCloneSystem: Call Center Agent Voice Clone System 坐席语音克隆系统
-Intelligent voice, agent voice cloning, agent intelligent assistance, agent assistance, telephone assistance, agent assistance robot,智能语音，坐席语音克隆，坐席智能辅助，坐席辅助，电话辅助，坐席辅助机器人，TTS，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心,Robot,large model robot!!!
+Intelligent voice, agent voice cloning, agent intelligent assistance, agent assistance, telephone assistance, agent assistance robot,智能语音，坐席语音克隆，坐席智能辅助，坐席辅助，电话辅助，坐席辅助机器人，TTS，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心,Robot,large model robot!
 
 ## 😄完整性:前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！部分功能还在迭代ing！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
@@ -12,7 +12,7 @@ Intelligent voice, agent voice cloning, agent intelligent assistance, agent assi
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## demo暂无，附团队AI Call Center的2025.05.25 Demo链接，enjoy😄：
+## demo暂无，附团队AI Call Center的2025.05.26 Demo链接，enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
@@ -111,7 +111,7 @@ http://124.220.48.38:80
 下图是随机抽取的需求对接的群：
 
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
-
+![image](https://github.com/user-attachments/assets/54639a6b-7c6c-47d0-8be8-241df5b64fd4)
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
 # 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
