@@ -1,5 +1,5 @@
 # FreeAgentVoiceCloneSystem: Call Center Agent Voice Clone System 坐席语音克隆系统
-Intelligent voice, agent voice cloning, agent intelligent assistance, agent assistance, telephone assistance, agent assistance robot,智能语音，坐席语音克隆，坐席智能辅助，坐席辅助，电话辅助，坐席辅助机器人，TTS，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心,Robot,large model robot!!!!!!!!
+Intelligent voice, agent voice cloning, agent intelligent assistance, agent assistance, telephone assistance, agent assistance robot,智能语音，坐席语音克隆，坐席智能辅助，坐席辅助，电话辅助，坐席辅助机器人，TTS，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心,Robot,large model robot!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
@@ -22,26 +22,20 @@ Intelligent voice, agent voice cloning, agent intelligent assistance, agent assi
 ## 😄思科呼叫中心、Avaya呼叫中心，国产平替；也可以对接思科与avaya，利旧系统；国产呼叫中心源头！
 致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、坐席辅助、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
-## 📫 How to reach us（截止2025.07.07坐席语音克隆还在迭代ing）:
+## 📫 How to reach us（截止2025.07.10坐席语音克隆还在迭代ing）:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
 - 官方WeChat03:easyaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## demo暂无，附团队AI Call Center的2025.06.29 Demo链接，enjoy😄：
-
-1，话务/在线客服：(demo123/demo123@Abc)
-http://124.220.48.38:8822/cc
-
-2，工单：(demo/123456)
-http://124.220.48.38:80
+## demo暂无，附团队AI Call Center的2025.07.10 Demo链接，enjoy😄：
 
 注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/b00ad977-4583-440b-8326-a1cc364068d2)
 
-## 开发语言：Java,Vue,Python,SpringBoot！
-业务模块Java为主；智能模块Python为主。
+## 开发语言：Java,Vue,SpringBoot！
+业务模块Java为主。
 
 # FreeAgentVoiceClone:坐席语音克隆的愿景与基础功能阐述
 
@@ -102,12 +96,7 @@ http://124.220.48.38:80
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
 ![01-freeipcc01](https://github.com/user-attachments/assets/f64e161c-68a1-4e4d-b12e-e910dcab26f8)
-![02-freeipcc14](https://github.com/user-attachments/assets/47764469-de7b-46ba-8626-654a90361b24)
-![03-freeipcc04](https://github.com/user-attachments/assets/43bc3b1b-9dc8-4bfc-8d0a-61e3cea7ac2e)
-![04-freeipcc08](https://github.com/user-attachments/assets/18359c61-ee39-4e51-94e5-629855095ea3)
-![05-freeipcc09](https://github.com/user-attachments/assets/ddf63606-ddb1-4857-898d-9c95c0bbed98)
 ![06-freeipcc02](https://github.com/user-attachments/assets/45992ac2-ba33-4ffa-8967-7f8bb052ed26)
-![07-freeipcc15](https://github.com/user-attachments/assets/e6833b18-ee95-40be-9e60-5d1ab0977721)
 ![08-freeipcc](https://github.com/user-attachments/assets/aa5d6150-2a3e-4db6-a2b6-69d5daac0714)
 ![09-freeipcc03-FreeAICC](https://github.com/user-attachments/assets/a4cfde78-1c94-4b41-80f6-b0f4e45a0377)
 ![10-freeipcc05](https://github.com/user-attachments/assets/547ac5f2-37e9-4469-8407-05023bac2a54)
@@ -124,17 +113,6 @@ http://124.220.48.38:80
 ![工单系统2](https://github.com/user-attachments/assets/6f1774e8-66f1-42f5-8df6-14796e8fda80)
 
 ## 😄每一个用户，都有专属群支持：10人左右，响应更及时
-
-下图是随机抽取的需求对接的群：
-
-![image](https://github.com/user-attachments/assets/c768011a-342f-4f38-a8c5-bb733cd38d47)
-![image](https://github.com/user-attachments/assets/6d64a30a-4dd7-4dd5-a7e5-f56706dd4932)
-![image](https://github.com/user-attachments/assets/e6bfee9e-0c4c-451d-87a5-1c056444ce30)
-![image](https://github.com/user-attachments/assets/be73edc1-999b-472f-b950-e1bf7266c7a0)
-![image](https://github.com/user-attachments/assets/3bd34af5-6a5c-447c-8f38-cd2b0520957a)
-![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
-![image](https://github.com/user-attachments/assets/35958ea3-3dc4-45ef-9fe6-7a16cf66c39d)
-![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
 # 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
 <!--
